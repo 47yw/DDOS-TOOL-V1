@@ -1,4 +1,4 @@
-## DDOS-TOOL-V1 <img src="./pic.png" width="400" alt="ddos">
+## DDOS-TOOL-V1
 \# DDOS-TOOL — Simulated Network Load Testing Tool (Free Version)
 
 
